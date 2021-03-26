@@ -8,8 +8,8 @@ param demand := 3774051;
 param mu := 0.0001;
 
 param: a :=
-public  2596781.68
-private 3037943.57;
+public  2596778
+private 2944397;
 
 param: b :=
 public  106666.6667
