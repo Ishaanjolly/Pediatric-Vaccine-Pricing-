@@ -6,8 +6,8 @@ This github repository was co-developed By Jarold Montez, Ishaan Singh Jolly and
 
 Note: we will be very glad if someone wants to reach to us regarding the implementation of our code. We can be reached at any of the following :- 
 
-Song Feng: S.Feng-21@sms.ed.ac.uk
-Ishaan Jolly: I.Jolly@sms.ed.ac.uk 
+Song Feng: S.Feng-21@sms.ed.ac.uk \\
+Ishaan Jolly: I.Jolly@sms.ed.ac.uk \\
 Jarold Montez: J.Montes@sms.ed.ac.uk
 
 
