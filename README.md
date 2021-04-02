@@ -10,7 +10,7 @@ Song Feng: S.Feng-21@sms.ed.ac.uk
 
 Ishaan Jolly: I.Jolly@sms.ed.ac.uk 
 
-Jarold Montez: J.Montes@sms.ed.ac.uk
+Jarold Montes: J.Montes@sms.ed.ac.uk
 
 This repository contains the following documents:
 
