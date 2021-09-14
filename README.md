@@ -1,7 +1,8 @@
 ## Centers for Disease Control and Prevention as a Strategic Agent in the Pediatric Vaccine Market: An Analytical Approach 
 
+# Updated 15 September 2021. 
 
-This github repository was co-developed by Jarold Montez, Ishaan Singh Jolly and Song Feng in accordance with the Topics in Applied Operational Research course project at the University of Edinburgh. We were very kindly advised by Dr Thomas Bryne for our project. 
+This repository contains model development and analysis proposed in Cummings et al [1]. This github repository was co-developed by Jarold Montez, Ishaan Singh Jolly and Song Feng for the Topics in n accordance with the Topics in Applied Operational Research course project at the University of Edinburgh. We were very kindly advised by Dr Thomas Bryne for our project. 
 
 
 Note: we will be very glad if someone wants to reach to us regarding the implementation of our code. We can be reached at any of the following :- 
@@ -24,3 +25,8 @@ This repository contains the following documents:
 * *Business_net_income_2018.xlsx*: file with the business net income results for 2018 of Sanofi Pasteur. We used information form this file to derive target profit of this manufacturer.
 * *Estimating_demand_curve_coefficients.xlsx*: file with the stimation of demand and paramenters of a, b and c of the model for years 2018 and 2019.
 * *Estimating_target_profit_2019.xlsx*: file with the estimation of target profits for Sanofi Pasteur and GlaxoSmithKline for 2019.
+
+Main Reference:
+
+[1]: Cummings, K., S. Martonosi, and B. Behzad, "Centers for Disease Control and Prevention as a Strategic Agent in the Pediatric Vaccine Market: An Analytical Approach," Manufacturing and Services Operations Management, Articles in Advance (2020))
+
