@@ -1,4 +1,4 @@
-## Centers for Disease Control and Prevention as a Strategic Agent in the Pediatric Vaccine Market: An Analytical Approach 
+## Pediatric Vaccine Pricing
 
 # Updated 15 September 2021. 
 
