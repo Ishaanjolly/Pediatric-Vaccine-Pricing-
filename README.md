@@ -1,6 +1,6 @@
 ## Pediatric Vaccine Pricing
 
-# Updated 15 September 2021. 
+### Updated 15 September 2021. 
 
 This repository contains model development and analysis proposed in Cummings et al [1]. This github repository was co-developed by Jarold Montez, Ishaan Singh Jolly and Song Feng for the Topics in n accordance with the Topics in Applied Operational Research course project at the University of Edinburgh. We were very kindly advised by Dr Thomas Bryne for our project. 
 
