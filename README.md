@@ -2,7 +2,7 @@
 
 ### Updated 15 September 2021. 
 
-This repository contains model development and analysis proposed in Cummings et al [1]. This github repository was co-developed by Jarold Montez, Ishaan Singh Jolly and Song Feng for the Topics in n accordance with the Topics in Applied Operational Research course project at the University of Edinburgh. We were very kindly advised by Dr Thomas Bryne for our project. 
+This repository contains model development and analysis proposed in Cummings et al [1]. This github repository was co-developed by Jarold Montez, Ishaan Jolly and Song Feng for the Topics in n accordance with the Topics in Applied Operational Research course project at the University of Edinburgh. We were very kindly advised by Dr Thomas Bryne for our project. 
 
 
 Note: we will be very glad if someone wants to reach to us regarding the implementation of our code. We can be reached at any of the following :- 
