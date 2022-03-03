@@ -9,9 +9,10 @@ Note: we will be very glad if someone wants to reach to us regarding the impleme
 
 Song Feng: S.Feng-21@sms.ed.ac.uk 
 
-Ishaan Jolly: I.Jolly@sms.ed.ac.uk 
+Ishaan Jolly: I.Jolly@sms.ed.ac.uk/ Ijolly1997@gmail.com
 
 Jarold Montes: J.Montes@sms.ed.ac.uk
+
 
 This repository contains the following documents:
 
